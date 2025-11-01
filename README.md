@@ -18,9 +18,3 @@
 
 <br>
 <br>
-
-#### Top Repositories
-
-<a href="https://github.com/kn04nd/brew-master">
-  <img align="center" src="https://github-readme-stats-five-pink-61.vercel.app/api/pin/?username=kn04nd&repo=brew-master&theme=transparent" />
-</a>
