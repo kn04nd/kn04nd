@@ -1,6 +1,6 @@
 **About me**
 
-- 💼 Backend Engineer at [EnhancedAI](https://enhanced.ai/)
+- 💼 Fullstack Engineer at [EnhancedAI](https://enhanced.ai/)
 - ❤️ I love what I do with expertise
 
 <br>
