@@ -3,6 +3,7 @@
 - 💼 Fullstack Engineer at [EnhancedAI](https://enhanced.ai/)
 
 - Creator of [JustMD](https://justmd.app)
+- Creator of [Eyes On News](https://eyeson.news)
 
 - ❤️ I love what I do with expertise
 
