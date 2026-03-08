@@ -3,7 +3,7 @@
 - 💼 Fullstack Engineer at [EnhancedAI](https://enhanced.ai/)
 
 - Creator of [JustMD](https://justmd.app)
-- Creator of [Eyes On News](https://eyeson.news)
+- Founder [Aufisoft](https://aufisoft.com)
 
 - ❤️ I love what I do with expertise
 
