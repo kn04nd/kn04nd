@@ -4,6 +4,7 @@
 
 - Creator of [JustMD](https://justmd.app)
 - Founder [Aufisoft](https://aufisoft.com)
+- Founder [Otis](https://lp.otis.finance)
 
 - ❤️ I love what I do with expertise
 
