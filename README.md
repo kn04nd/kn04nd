@@ -1,6 +1,6 @@
 **About me**
 
-- 💼 Fullstack Engineer at [EnhancedAI](https://enhanced.ai/)
+- 💼 Senior Backend Engineer at [Stay.Ai](https://stay.ai/)
 
 - Creator of [JustMD](https://justmd.app)
 - Founder [Aufisoft](https://aufisoft.com)
